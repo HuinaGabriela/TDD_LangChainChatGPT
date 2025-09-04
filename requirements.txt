@@ -1,0 +1,12 @@
+pip freeze > requirements.txt
+langchain-community>=0.3.29
+
+---
+
+## **requirements.txt**
+
+```txt
+fastapi
+openai
+python-dotenv
+uvicorn
