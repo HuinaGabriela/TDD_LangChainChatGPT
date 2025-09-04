@@ -1,7 +1,7 @@
 # LangChain com ChatGPT — Automação de Testes Unitários
 
 ## Objetivo
-Automatizar a criação de testes unitários usando LLM com LangChain, integrando com Azure (sem custo) e OpenAI (crédito gratuito).
+Automatizar a criação de testes unitários usando LLM com LangChain, integrando com Azure e OpenAI.
 
 ## Stack & Ferramentas
 - **LangChain** (com `langchain-openai`)
