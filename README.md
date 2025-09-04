@@ -1,5 +1,3 @@
-# TDD_LangChainChatGPT
-
 # LangChain com ChatGPT — Automação de Testes Unitários
 
 ## Objetivo
