@@ -1,5 +1,3 @@
-# LangChain com ChatGPT — Automação de Testes Unitários
-
 # TDD com LangChain e Azure ChatGPT
 
 Este projeto demonstra como automatizar a criação de testes unitários usando LLMs via LangChain com Azure OpenAI, integrados com uma API FastAPI.
@@ -32,9 +30,12 @@ AZURE_OPENAI_ENDPOINT=https://xxxxxx.openai.azure.com/
 AZURE_OPENAI_API_VERSION=2023-07-01-preview
 AZURE_OPENAI_DEPLOYMENT_NAME=gpt35turbo16k
 
+
 ▶️ Executando
 
 uvicorn app.langchain_agent:app --reload
+
+
 
 📩 Exemplo de Requisição
 
@@ -45,6 +46,8 @@ POST /generate-test
 }
 ```
 
+
+
 Resposta:
 
 ```
@@ -53,14 +56,11 @@ Resposta:
 }
 ```
 
+
+
 ✅ Resultado Esperado
 
 Testes unitários gerados dinamicamente para funções Python simples.
-
-
-## 📸 Print da API funcionando
-
-![API funcionando](imagens/imagens.PNG)
 
 
 
