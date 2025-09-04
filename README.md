@@ -56,4 +56,7 @@ Resposta:
 }
 ```
 
+## 📸 Print da API funcionando
+
+![API funcionando](images/API_funcionando.PNG)
 
