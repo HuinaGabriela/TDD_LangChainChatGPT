@@ -57,17 +57,3 @@ Resposta:
 ```
 
 
-
-✅ Resultado Esperado
-
-Testes unitários gerados dinamicamente para funções Python simples.
-
-
-
-💡 Melhorias Futuras
-
-Adicionar suporte para múltiplas funções no mesmo input
-
-Melhorar o prompt para gerar testes com pytest
-
-Validação automática dos testes gerados
