@@ -58,6 +58,12 @@ Resposta:
 Testes unitários gerados dinamicamente para funções Python simples.
 
 
+## 📸 Print da API funcionando
+
+![API funcionando](imagens/imagens.PNG)
+
+
+
 💡 Melhorias Futuras
 
 Adicionar suporte para múltiplas funções no mesmo input
