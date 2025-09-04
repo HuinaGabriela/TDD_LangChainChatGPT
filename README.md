@@ -60,5 +60,6 @@ Resposta:
 ## 📸 Print da API funcionando
 
 
-![API Funcionando](images/API_funcionando.PNG)
+![API_funcionando](images/API_funcionando.PNG)
+
 
