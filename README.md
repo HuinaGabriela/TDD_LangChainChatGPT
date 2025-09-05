@@ -1,6 +1,6 @@
 # TDD com LangChain e Azure ChatGPT
 
-Este projeto demonstra como automatizar a criação de testes unitários usando LLMs via LangChain com Azure OpenAI, integrados com uma API FastAPI.
+Este projeto utiliza LangChain com Azure ChatGPT para automatizar a geração de testes unitários a partir de funções Python. A aplicação foi desenvolvida com FastAPI, permitindo o envio de código via API e recebendo como resposta os testes gerados automaticamente. É uma solução prática para aplicar TDD com IA no desenvolvimento Python.
 
 ## 🚀 Funcionalidade
 
